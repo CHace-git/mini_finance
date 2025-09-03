@@ -1146,4 +1146,12 @@ strong {
     font-size: var(--h6-font-size);
   }
 }
+.site-footer.text-center {
+    text-align: center;
+    padding: 10px;
+    font-size: 0.9em;
+    color: #555;
+    border-top: 1px solid #ccc;
+    margin-top: 20px;
+}
 
